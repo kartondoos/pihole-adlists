@@ -2379,7 +2379,7 @@ www.llllllllllll.net
 0.0.0.0 adspeed.net
 0.0.0.0 adspynet.com
 0.0.0.0 adsrvgateway.com
-0.0.0.0 adsrvmedia.adk2.co$important
+0.0.0.0 adsrvmedia.adk2.co #important
 0.0.0.0 adtech.com
 0.0.0.0 adternal.com
 0.0.0.0 adtomafusion.net
@@ -17887,9 +17887,9 @@ vkcdnservice.appspot.com
 #+ NOT_OPTIMIZED
 0.0.0.0 hqsjc.com
 #+ PLATFORM(ios)
-0.0.0.0 deloton.com$important
+0.0.0.0 deloton.com #important
 #+ PLATFORM(ios)
-0.0.0.0 oclasrv.com$important
+0.0.0.0 oclasrv.com #important
 #----- For HTTPS websites when HTTPS filtering is disabled ------
 0.0.0.0 jfduv7.com
 0.0.0.0 n152adserv.com
@@ -22381,7 +22381,7 @@ vkcdnservice.appspot.com
 0.0.0.0 tr.snapchat.com
 0.0.0.0 atlas1.krone.at
 0.0.0.0 spr.bild.de
-0.0.0.0 pixel.wp.pl$important
+0.0.0.0 pixel.wp.pl #important
 0.0.0.0 dot.wp.pl
 0.0.0.0 player-feedback-v1.glomex.com
 0.0.0.0 track.sohu.com
@@ -22413,7 +22413,7 @@ vkcdnservice.appspot.com
 0.0.0.0 analytics-udg.netdna-ssl.com
 0.0.0.0 stats.otempo.com.br
 0.0.0.0 banstat.nadavi.net
-0.0.0.0 pixel.4players.de$important
+0.0.0.0 pixel.4players.de #important
 0.0.0.0 lexip.4players.de
 0.0.0.0 monitor-targeting-failures.sqrt-5041.de
 0.0.0.0 analytics.businessinsider.com
@@ -30878,55 +30878,55 @@ charlestownwyllie.oaklawnnonantum.com
 0.0.0.0 stat.moonwalk.co
 0.0.0.0 info.kinoclub77.ru
 0.0.0.0 an.blogis.org
-.freepicsel.ru
-.new-rutor.com.pl
-.pic2me.org
-://.012345b.xyz
-://.10pix.xyz
-://.111ae.xyz
-://.1abpix.xyz
-://.1acpix.xyz
-://.1alivs.xyz
-://.1sexxx.com
-://.2img-pic.ru
-://.anime-free.net
-://.bobfilm1.co
-://.dorgroup.com
-://.drampic.info
-://.fast2img.ru
-://.fasti2mages.ru
-://.free-torrents.eu.org
-://.freeimges.ru
-://.freepixs.ru
-://.freerutor.com
-://.gigantporno.com
-://.hd-720.biz
-://.images-pix.ru
-://.imagespics.ru
-://.imgbum.ru
-://.imgbun.ru
-://.imgpics.ru
-://.imgshance.ru
-://.imgspic.ru
-://.kinogo-720.co
-://.kuponykz.ru
-://.mnogabukaff.net
-://.photopix.info
-://.picmir.nu
-://.picstraff.ru
-://.pika-img.ru
-://.pintastic.by
-://.pix-images.ru
-://.porno-gid2.info
-://.pornogig.com
-://.propix.info
-://.protopix.info
-://.purum-pup-pum.ru
-://.rusdozor.ru
-://.screenpix.ru
-://.sexpornophoto.com
-://.simpsonsvideos.ru
-://.videopron.ru
+0.0.0.0 freepicsel.ru
+0.0.0.0 new-rutor.com.pl
+0.0.0.0 pic2me.org
+0.0.0.0 012345b.xyz
+0.0.0.0 10pix.xyz
+0.0.0.0 111ae.xyz
+0.0.0.0 1abpix.xyz
+0.0.0.0 1acpix.xyz
+0.0.0.0 1alivs.xyz
+0.0.0.0 1sexxx.com
+0.0.0.0 2img-pic.ru
+0.0.0.0 anime-free.net
+0.0.0.0 bobfilm1.co
+0.0.0.0 dorgroup.com
+0.0.0.0 drampic.info
+0.0.0.0 fast2img.ru
+0.0.0.0 fasti2mages.ru
+0.0.0.0 free-torrents.eu.org
+0.0.0.0 freeimges.ru
+0.0.0.0 freepixs.ru
+0.0.0.0 freerutor.com
+0.0.0.0 gigantporno.com
+0.0.0.0 hd-720.biz
+0.0.0.0 images-pix.ru
+0.0.0.0 imagespics.ru
+0.0.0.0 imgbum.ru
+0.0.0.0 imgbun.ru
+0.0.0.0 imgpics.ru
+0.0.0.0 imgshance.ru
+0.0.0.0 imgspic.ru
+0.0.0.0 kinogo-720.co
+0.0.0.0 kuponykz.ru
+0.0.0.0 mnogabukaff.net
+0.0.0.0 photopix.info
+0.0.0.0 picmir.nu
+0.0.0.0 picstraff.ru
+0.0.0.0 pika-img.ru
+0.0.0.0 pintastic.by
+0.0.0.0 pix-images.ru
+0.0.0.0 porno-gid2.info
+0.0.0.0 pornogig.com
+0.0.0.0 propix.info
+0.0.0.0 protopix.info
+0.0.0.0 purum-pup-pum.ru
+0.0.0.0 rusdozor.ru
+0.0.0.0 screenpix.ru
+0.0.0.0 sexpornophoto.com
+0.0.0.0 simpsonsvideos.ru
+0.0.0.0 videopron.ru
 0.0.0.0 action.evrikak.ru
 0.0.0.0 ad.4ertik.porn
 0.0.0.0 ad.cbonds.info
@@ -30953,7 +30953,7 @@ charlestownwyllie.oaklawnnonantum.com
 0.0.0.0 banners.prikol.ru
 0.0.0.0 banshop.gruntovik.ru
 0.0.0.0 bet.championat.com
-0.0.0.0 bet.championat.com$important
+0.0.0.0 bet.championat.com #important
 0.0.0.0 tea.pornolomka.video
 0.0.0.0 bn.kino-go.co
 0.0.0.0 bn.take-profit.org
