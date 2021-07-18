@@ -1,9 +1,9 @@
 # block list googlevideo test author: kartondoos
 
 r1---sn-32o-5hne.googlevideo.com #ad?
-r1---sn-32o-5hnl.googlevideo.com #ad?
+#r1---sn-32o-5hnl.googlevideo.com #vid
 r1---sn-32o-5hns.googlevideo.com #ad?
-r1---sn-32o-5hnz.googlevideo.com #ad?
+#r1---sn-32o-5hnz.googlevideo.com #vid
 r1---sn-32o-guhe.googlevideo.com #ad?
 r1---sn-32o-guhl.googlevideo.com #ad?
 r1---sn-32o-guhs.googlevideo.com #ad?
@@ -34,7 +34,7 @@ r2---sn-32o-guhs.googlevideo.com #ad?
 r2---sn-32o-guhz.googlevideo.com #ad?
 r2---sn-4g5e6nld.googlevideo.com #ad?
 r2---sn-4g5ednle.googlevideo.com #ad?
-r2---sn-4g5ednsl.googlevideo.com #ad?
+#r2---sn-4g5ednsl.googlevideo.com #vid
 r2---sn-4g5ednss.googlevideo.com #ad?
 r2---sn-5hne6nlk.googlevideo.com #ad?
 r2---sn-5hne6nsk.googlevideo.com #ad?
@@ -97,8 +97,8 @@ r5---sn-5hnekn7l.googlevideo.com #ad?
 r5---sn-5hnekn7z.googlevideo.com #ad?
 r6---sn-32o-5hne.googlevideo.com #ad?
 r6---sn-32o-5hnl.googlevideo.com #ad?
-r6---sn-32o-guhe.googlevideo.com #ad?
-r6---sn-32o-guhl.googlevideo.com #ad?
+#r6---sn-32o-guhe.googlevideo.com #vid
+#r6---sn-32o-guhl.googlevideo.com #vid
 r6---sn-5hne6n7l.googlevideo.com #ad?
 r7---sn-32o-5hne.googlevideo.com #ad?
 r7---sn-32o-5hnl.googlevideo.com #ad?
@@ -109,7 +109,12 @@ r8---sn-32o-guhe.googlevideo.com #ad?
 r8---sn-32o-guhl.googlevideo.com #ad?
 r12---sn-4g5e6nzy.googlevideo.com #ad?
 
-#addresse that deliverd videogoodput
+# new domains discoverd
+r5---sn-4g5e6nz7.googlevideo.com #ad?
+r5---sn-4g5e6nsr.googlevideo.com #ad?
+r3---sn-4g5ednss.googlevideo.com #ad?
+
+# addresse that deliverd videogoodput
 r1---sn-hpa7kn7e.googlevideo.com #videogoodput
 r2---sn-o097znlk.googlevideo.com #videogoodput
 r3---sn-5hnekn7z.googlevideo.com #videogoodput
@@ -119,6 +124,7 @@ r4---sn-hp57knz6.googlevideo.com #videogoodput
 r4---sn-hpa7znsz.googlevideo.com #videogoodput
 r4---sn-n4v7sn7s.googlevideo.com #videogoodput
 r4---sn-4g5e6nsy.googlevideo.com #videogoodput
+r4---sn-2gb7sn7k.googlevideo.com #videogoodput
 r5---sn-ab5sznl7.googlevideo.com #videogoodput
 r5---sn-h5q7kned.googlevideo.com #videogoodput
 r5---sn-hgn7yn7e.googlevideo.com #videogoodput
