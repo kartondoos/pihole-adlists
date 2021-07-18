@@ -4,7 +4,7 @@
 
 #new domains discoverd
 r6---sn-i5h7lned.googlevideo.com #videogoodput
-
+r5---sn-4g5e6ns7.googlevideo.com #ad
 
 
 
@@ -353,7 +353,7 @@ r1---sn-25glenez.googlevideo.com #ad
 r1---sn-32o-5hne.googlevideo.com #ad
 # r1---sn-32o-5hnl.googlevideo.com #ad
 r1---sn-32o-5hns.googlevideo.com #ad
-r1---sn-32o-5hnz.googlevideo.com #ad
+# r1---sn-32o-5hnz.googlevideo.com #ad
 r1---sn-32o-guhe.googlevideo.com #ad
 r1---sn-32o-guhl.googlevideo.com #ad
 r1---sn-32o-guhs.googlevideo.com #ad
@@ -368,7 +368,7 @@ r1---sn-4g5e6nls.googlevideo.com #ad
 r1---sn-4g5e6ns6.googlevideo.com #ad
 r1---sn-4g5e6nsd.googlevideo.com #ad
 r1---sn-4g5e6nsk.googlevideo.com #ad
-r1---sn-4g5e6nsr.googlevideo.com #ad
+# r1---sn-4g5e6nsr.googlevideo.com #ad
 r1---sn-4g5e6nss.googlevideo.com #ad
 # r1---sn-4g5e6nsy.googlevideo.com #ad
 r1---sn-4g5e6nsz.googlevideo.com #ad
@@ -389,7 +389,7 @@ r1---sn-4g5ednle.googlevideo.com #ad
 r1---sn-4g5ednll.googlevideo.com #ad
 r1---sn-4g5ednls.googlevideo.com #ad
 r1---sn-4g5ednly.googlevideo.com #ad
-r1---sn-4g5edns6.googlevideo.com #ad
+# r1---sn-4g5edns6.googlevideo.com #ad
 r1---sn-4g5edns7.googlevideo.com #ad
 r1---sn-4g5ednsd.googlevideo.com #ad
 r1---sn-4g5ednse.googlevideo.com #ad
@@ -1091,7 +1091,7 @@ r2---sn-25glenez.googlevideo.com #ad
 # r2---sn-32o-5hne.googlevideo.com #ad
 r2---sn-32o-5hnl.googlevideo.com #ad
 r2---sn-32o-5hns.googlevideo.com #ad
-r2---sn-32o-5hnz.googlevideo.com #ad
+# r2---sn-32o-5hnz.googlevideo.com #ad
 r2---sn-32o-5hnz.gvt1.com #ad
 r2---sn-32o-guhe.googlevideo.com #ad
 r2---sn-32o-guhl.googlevideo.com #ad
@@ -1845,7 +1845,7 @@ r3---sn-4g5e6nsk.googlevideo.com #ad
 r3---sn-4g5e6nsr.googlevideo.com #ad
 r3---sn-4g5e6nss.googlevideo.com #ad
 r3---sn-4g5e6nsy.googlevideo.com #ad
-r3---sn-4g5e6nsz.googlevideo.com #ad
+# r3---sn-4g5e6nsz.googlevideo.com #ad
 r3---sn-4g5e6nz7.googlevideo.com #ad
 r3---sn-4g5e6nze.googlevideo.com #ad
 r3---sn-4g5e6nzl.googlevideo.com #ad
@@ -1856,7 +1856,7 @@ r3---sn-4g5edne6.googlevideo.com #ad
 r3---sn-4g5edne7.googlevideo.com #ad
 r3---sn-4g5edned.googlevideo.com #ad
 r3---sn-4g5ednee.googlevideo.com #ad
-r3---sn-4g5ednek.googlevideo.com #ad
+# r3---sn-4g5ednek.googlevideo.com #ad
 r3---sn-4g5edney.googlevideo.com #ad
 r3---sn-4g5ednld.googlevideo.com #ad
 r3---sn-4g5ednle.googlevideo.com #ad
@@ -2563,7 +2563,7 @@ r4---sn-25glene7.googlevideo.com #ad
 r4---sn-25glenes.googlevideo.com #ad
 r4---sn-25glenez.googlevideo.com #ad
 r4---sn-2gb7sn7k.googlevideo.com #videogoodput
-r4---sn-32o-5hne.googlevideo.com #ad
+# r4---sn-32o-5hne.googlevideo.com #ad
 r4---sn-32o-5hnl.googlevideo.com #ad
 r4---sn-32o-guhe.googlevideo.com #ad
 r4---sn-32o-guhl.googlevideo.com #ad
