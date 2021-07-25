@@ -55,4 +55,11 @@ r5---sn-n4v7sne7.googlevideo.com	#videogoodput
 r5---sn-p5qlsndk.googlevideo.com	#videogoodput
 r5---sn-q4fl6ner.googlevideo.com	#videogoodput
 r6---sn-hpa7zne6.googlevideo.com	#videogoodput
-r6---sn-i5h7lned.googlevideo.com	#videogoodput
+r6---sn-i5h7lned.googlevideo.com #videogoodput
+
+25-7-21
+r2---sn-p5qs7ner.googlevideo.com #videogoodput
+r2---sn-hpa7zn7d.googlevideo.com #videogoodput
+r5---sn-o097znsz.googlevideo.com #videogoodput
+r2---sn-5hnedn7s.googlevideo.com #videogoodput
+r3---sn-nv47ln7e.googlevideo.com #videogoodput
