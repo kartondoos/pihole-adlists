@@ -59,6 +59,7 @@ cm.g.doubleclick.net			#Exactblacklist/Ads
 footprints-pa.googleapis.com		#Exactblacklist/test
 peoplestack-pa.googleapis.com		#Exactblacklist/test
 static-global-s-msn-com.akamaized.net	#Exactblacklist/msnblock
+xp.apple.com ##Exactblacklist/appeltrack
 r1---sn-32o-5hnz.googlevideo.com.home	#Exactblacklist/blockgooglevideo.home
 r2---sn-32o-5hnl.googlevideo.com.home	#Exactblacklist/blockgooglevideo.home
 r2---sn-32o-guhe.googlevideo.com.home	#Exactblacklist/blockgooglevideo.home
