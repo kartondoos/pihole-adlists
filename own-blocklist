@@ -1,0 +1,42 @@
+login.tmaill.ru 				#Exact blacklist / spam
+stun.service.mozilla.com 			#Exact blacklist / tracking
+oneid.mmstat 					#Exact blacklist / tracking
+su.ff.avast.com 				#Exact blacklist / tracking
+(\.|^)meowpushnot\.com$ 			#Regex blacklist / ad-virus
+video-edge-453f75.pdx01.abs.hls.ttvnw.net	#Exact blacklist / cnd ads
+vdx.tv 						#Exact blacklist / ads
+pagead2.googlesyndication.com 			#Exact blacklist / google ad server
+mobile.pipe.aria.microsoft.com 			#Exact blacklist / tracking
+fp.msedge.net 					#Exact blacklist / tracking edge
+hero-wars.com 					#Exact blacklist / spam game
+heroes-a.akamaihd.net 				#Exact blacklist / spam game
+(\.|^)mt\.k\.keyade\.com$ 			#Regex blacklist / spam
+cdn.carbonads.com 				#Exact blacklist / cdn ads
+googleadservices.com 				#Exact blacklist / ad server
+adsense.az 					#Exact blacklist / adserver
+my.tnet 					#Exact blacklist / tweakers
+tentacles.smartocto.com 			#Exact blacklist / tweakers
+ads.facebook.com 				#Exact blacklist / fb ads
+analytics.oneplus.cn 				#Exact blacklist / oneplus ads
+click.oneplus.cn 				#Exact blacklist / oneplus ads
+samsung-com.112.2o7.net 			#Exact blacklist / samsung ads
+geolocation.forbes.com 				#Exact blacklist / forbes
+wpad.home 					#Regex blacklist / discovery protocol block
+cfdavknzasribvf.home 				#Exact blacklist / discovery protocol block
+qurpwfikbccd.home 				#Exact blacklist / discovery protocol block
+xgsmvckaormmta.home 				#Exact blacklist / discovery protocol block
+(\.|^)wpad\.home$ 				#Regex blacklist / wpad block
+(\.|^)wpad\.lan$ 				#Regex blacklist / wpad block
+p374865.clksite.com 				#Exact blacklist / ad soap2day
+beta.mybetterdl.com 				#Exact blacklist / ad soap2day
+d1esebcdm6wx7j.cloudfront.net 			#Exact blacklist / ad soap2day
+p374865.mycdn.co 				#Exact blacklist / ad soap2day
+www.getawesome10.com 				#Exact blacklist / ad soap2day
+sollsectivej.fun 				#Exact blacklist / ad soap2day
+mybetterdl.com 					#Exact blacklist / ad soap2day
+prd.jwpltx.com 					#Exact blacklist / ad soap2day
+xewco.ereparison.space 				#Exact blacklist / ad server
+(\.|^)maps\.com$ 				#Regex blacklist / block
+(\.|^)9e28d6184ca2b4376315e43a7a1a1e9a\.clo\.footprintdns\.com$ #Regex blacklist / dns tracking
+advertisementapi.indevice.sonymobile.com 	#Exact blacklist / ads
+
