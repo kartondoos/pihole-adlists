@@ -1,5 +1,5 @@
 # block list xx---sn-xxxxxxxx.googlevideo.com/goodput
-domains whit goodput dont deliver any video so thats why the block list
+# domains whit goodput dont deliver any video so thats why the block list
 # author: kartondoos
 
 r1---sn-2gb7sn7z.googlevideo.com 	#videogoodput
@@ -57,9 +57,15 @@ r5---sn-q4fl6ner.googlevideo.com	#videogoodput
 r6---sn-hpa7zne6.googlevideo.com	#videogoodput
 r6---sn-i5h7lned.googlevideo.com #videogoodput
 
-25-7-21
+# 25-7-21
 r2---sn-p5qs7ner.googlevideo.com #videogoodput
 r2---sn-hpa7zn7d.googlevideo.com #videogoodput
 r5---sn-o097znsz.googlevideo.com #videogoodput
 r2---sn-5hnedn7s.googlevideo.com #videogoodput
 r3---sn-nv47ln7e.googlevideo.com #videogoodput
+
+# 29-7-21
+r4---sn-aigl6n76.googlevideo.com #videogoodput
+r4---sn-vgqsknlr.googlevideo.com #videogoodput
+r3---sn-aigzrner.googlevideo.com #videogoodput
+r4---sn-aigzrn76.googlevideo.com #videogoodput
