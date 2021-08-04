@@ -1585,3 +1585,12 @@ r8---sn-32o-5hne.googlevideo.com	#videogoodput
 r8---sn-32o-5hnl.googlevideo.com	#videogoodput
 r8---sn-32o-guhe.googlevideo.com	#videogoodput
 r8---sn-32o-guhl.googlevideo.com	#videogoodput
+
+
+
+r2---sn-ab5sznl7.googlevideo.com
+r1---sn-p5qs7nsr.googlevideo.com
+r1---sn-q4flrn7d.googlevideo.com
+r3---sn-hpa7kn7s.googlevideo.com
+r4---sn-hp57yne6.googlevideo.com
+r2---sn-32o-5hns.googlevideo.com
