@@ -1630,4 +1630,10 @@ r5---sn-5hneknee.googlevideo.com #videogoodput
 r5---sn-ab5l6ndr.googlevideo.com #videogoodput
 r5---sn-p5qs7ner.googlevideo.com #videogoodput
 
-
+r5---sn-q4fl6nz6.googlevideo.com
+r5---sn-vgqsrnes.googlevideo.com
+r1---sn-ab5sznle.googlevideo.com
+r4---sn-o097znlk.googlevideo.com
+r2---sn-vgqskns7.googlevideo.com
+r3---sn-hp57knz6.googlevideo.com
+r4---sn-aigzrn7e.googlevideo.com
