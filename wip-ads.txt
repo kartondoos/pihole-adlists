@@ -1586,11 +1586,48 @@ r8---sn-32o-5hnl.googlevideo.com	#videogoodput
 r8---sn-32o-guhe.googlevideo.com	#videogoodput
 r8---sn-32o-guhl.googlevideo.com	#videogoodput
 
+r1---sn-4g5e6nsk.googlevideo.com #videogoodput
+r1---sn-a5meknek.googlevideo.com #videogoodput
+r1---sn-aigzrn7s.googlevideo.com #videogoodput
+r1---sn-hp57knzz.googlevideo.com #videogoodput
+r1---sn-nv47lnsr.googlevideo.com #videogoodput
+r1---sn-o097znlr.googlevideo.com #videogoodput
+r1---sn-o097znsr.googlevideo.com #videogoodput
+r1---sn-o097znss.googlevideo.com #videogoodput
+r1---sn-p5qs7nsr.googlevideo.com  #videogoodput
+r1---sn-q4flrn7d.googlevideo.com #videogoodput
+r1---sn-vgqsknse.googlevideo.com #videogoodput
+r1---sn-vgqsrn76.googlevideo.com #videogoodput
+r2---sn-32o-5hns.googlevideo.com #videogoodput
+r2---sn-5hneknee.googlevideo.com #videogoodput
+r2---sn-a5meknek.googlevideo.com #videogoodput
+r2---sn-ab5sznl7.googlevideo.com #videogoodput
+r2---sn-aigl6n7d.googlevideo.com #videogoodput
+r2---sn-h5qzen7d.googlevideo.com #videogoodput
+r2---sn-hpa7kn7d.googlevideo.com #videogoodput
+r2---sn-q4flrn7k.googlevideo.com #videogoodput
+r2---sn-vgqsdn7s.googlevideo.com #videogoodput
+r2---sn-vgqskn76.googlevideo.com #videogoodput
+r2---sn-vgqskn7e.googlevideo.com #videogoodput
+r2---sn-vgqsrnel.googlevideo.com #videogoodput
+r2---sn-vgqsrnld.googlevideo.com #videogoodput
+r3---sn-25glene6.googlevideo.com #videogoodput
+r3---sn-a5mlrn7s.googlevideo.com #videogoodput
+r3---sn-hgn7rn7r.googlevideo.com #videogoodput
+r3---sn-hpa7kn7s.googlevideo.com #videogoodput
+r3---sn-q4fl6ney.googlevideo.com #videogoodput
+r4---sn-4g5e6ns6.googlevideo.com #videogoodput
+r4---sn-4g5ednle.googlevideo.com #videogoodput
+r4---sn-4g5ednll.googlevideo.com #videogoodput
+r4---sn-hp57yne6.googlevideo.com #videogoodput
+r4---sn-nv47ln7z.googlevideo.com #videogoodput
+r4---sn-p5qs7nel.googlevideo.com #videogoodput
+r4---sn-p5qs7nes.googlevideo.com #videogoodput
+r4---sn-q4flrney.googlevideo.com #videogoodput
+r4---sn-vgqskns7.googlevideo.com #videogoodput
+r5---sn-4g5lzned.googlevideo.com #videogoodput
+r5---sn-5hneknee.googlevideo.com #videogoodput
+r5---sn-ab5l6ndr.googlevideo.com #videogoodput
+r5---sn-p5qs7ner.googlevideo.com #videogoodput
 
 
-r2---sn-ab5sznl7.googlevideo.com
-r1---sn-p5qs7nsr.googlevideo.com
-r1---sn-q4flrn7d.googlevideo.com
-r3---sn-hpa7kn7s.googlevideo.com
-r4---sn-hp57yne6.googlevideo.com
-r2---sn-32o-5hns.googlevideo.com
