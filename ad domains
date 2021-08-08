@@ -1,63 +1,87 @@
-api.pwnedpasswords.com			#Exactblacklist/googlepasswordpwnd
-adssettings.google.com			#Exactblacklist/ads
-html5-player.libsyn.com			#Exactblacklist/ads
-static.libsyn.com			#Exactblacklist/ads
-ssl-static.libsyn.com			#Exactblacklist/ads
-geller-pa.googleapis.com		#Exactblacklist/ads
-passwordsleakcheck-pa.googleapis.com	#Exactblacklist/passwordleakgoogle
-cdn.cookielaw.org			#Exactblacklist/rtl
-cdns.gigya.com				#Exactblacklist/rtl
-api-traffic.h-cdn.nl			#Exactblacklist/rtl
-cdns.eu1.gigya.com			#Exactblacklist/rtl
-adcdn.ster.nl				#Exactblacklist/nos
-adscience-nocookie.nl			#Exactblacklist/nos
-cookies.nos.nl				#Exactblacklist/nos
-measure.smartocto.com			#Exactblacklist/tweakers
-config.dpns-notifications.com		#Exactblacklist/nu.nl
-account.dpgmmservices.nl		#Exactblacklist/nu.nl
-myprivacy.dpgmedia.net			#Exactblacklist/nu.nl
-content.jwplatform.com			#Exactblacklist/nu.nl
-talk.nu.nl				#Exactblacklist/nu.nl
-docker.creative-serving.com		#Exactblacklist/rtl
-connect.getflowbox.com			#Exactblacklist/buienradar
-browser.sentry-cdn.com			#Exactblacklist/trackers
-(\.|^)trinitymedia\.ai$			#Regexblacklist/forbes
-(\.|^)activehosted\.com$		#Regexblacklist/bussnessinsider
-(\.|^)privacymanager\.io$		#Regexblacklist/bussnes
-(\.|^)plenigo\.com$			#Regexblacklist/bussnes
-(\.|^)adhese\.com$			#Regexblacklist/bussnes
-(\.|^)crmservice\.eu$			#Regexblacklist/bunnsees
-(\.|^)sentry\.io$			#Regexblacklist/nos
-(\.|^)search-api\.fie\.future\.net\.uk$	#Regexblacklist/block
-ssp.ads.betweendigital.com		#Exactblacklist/ads
-rtb-csync-eqx.smartadserver.com		#Exactblacklist/ads
-z.moatads.com				#Exactblacklist/ads
-a.teads.tv				#Exactblacklist/Ads
-googleads.github.io			#Exactblacklist/Ads
-pubads.g.doubleclick.net		#Exactblacklist/Ads
-c.amazon-adsystem.com			#Exactblacklist/Ads
-match.adsrvr.org			#Exactblacklist/Ads
-p.teads.tv				#Exactblacklist/Ads
-ads.betweendigital.com			#Exactblacklist/Ads
-jadserve.postrelease.com		#Exactblacklist/Ads
-ads.pexi.nl				#Exactblacklist/Ads
-l3.aaxads.com				#Exactblacklist/Ads
-ads.creative-serving.com		#Exactblacklist/Ads
-googleads4.g.doubleclick.net		#Exactblacklist/Ads
-adservice.google.com			#Exactblacklist/Ads
-ads-bid.l.doubleclick.net		#Exactblacklist/Ads
-adservice.google.nl			#Exactblacklist/Ads
-gstaticadssl.l.google.com		#Exactblacklist/Ads
-ad-colony.com				#Exactblacklist/Ads
-ad.turn.com				#Exactblacklist/Ads
-ads-mannenmedia.adhese.com		#Exactblacklist/Ads
-ads.adaptv.advertising.com		#Exactblacklist/Ads
-ads.nexage.com				#Exactblacklist/Ads
-ads.pubmatic.com			#Exactblacklist/Ads
-adserver.lumido.nl			#Exactblacklist/Ads
-cm.g.doubleclick.net			#Exactblacklist/Ads
-footprints-pa.googleapis.com		#Exactblacklist/test
-peoplestack-pa.googleapis.com		#Exactblacklist/test
-static-global-s-msn-com.akamaized.net	#Exactblacklist/msnblock
-msn.com #Exactblacklist/msnblock
-xp.apple.com  #Exactblacklist/appeltrack
+api.pwnedpasswords.com			# googlepasswordpwnd
+adssettings.google.com			# ads
+html5-player.libsyn.com			# ads
+static.libsyn.com			# ads
+ssl-static.libsyn.com			# ads
+geller-pa.googleapis.com		# ads
+passwordsleakcheck-pa.googleapis.com	# passwordleakgoogle
+cdn.cookielaw.org			# rtl
+cdns.gigya.com				# rtl
+api-traffic.h-cdn.nl			# rtl
+cdns.eu1.gigya.com			# rtl
+adcdn.ster.nl				# nos
+adscience-nocookie.nl			# nos
+cookies.nos.nl				# nos
+measure.smartocto.com			# tweakers
+config.dpns-notifications.com		# nu.nl
+account.dpgmmservices.nl		# nu.nl
+myprivacy.dpgmedia.net			# nu.nl
+content.jwplatform.com			# nu.nl
+talk.nu.nl				# nu.nl
+docker.creative-serving.com		# rtl
+connect.getflowbox.com			# buienradar
+browser.sentry-cdn.com			# trackers
+(\.|^)trinitymedia\.ai$			# forbes
+(\.|^)activehosted\.com$		# bussnessinsider
+(\.|^)privacymanager\.io$		# bussnes
+(\.|^)plenigo\.com$			# bussnes
+(\.|^)adhese\.com$			# bussnes
+(\.|^)crmservice\.eu$			# bunnsees
+(\.|^)sentry\.io$			# nos
+(\.|^)search-api\.fie\.future\.net\.uk$	# block
+ssp.ads.betweendigital.com		# ads
+rtb-csync-eqx.smartadserver.com		# ads
+z.moatads.com				# ads
+a.teads.tv				# Ads
+googleads.github.io			# Ads
+pubads.g.doubleclick.net		# Ads
+c.amazon-adsystem.com			# Ads
+match.adsrvr.org			# Ads
+p.teads.tv				# Ads
+ads.betweendigital.com			# Ads
+jadserve.postrelease.com		# Ads
+ads.pexi.nl				# Ads
+l3.aaxads.com				# Ads
+ads.creative-serving.com		# Ads
+googleads4.g.doubleclick.net		# Ads
+adservice.google.com			# Ads
+ads-bid.l.doubleclick.net		# Ads
+adservice.google.nl			# Ads
+gstaticadssl.l.google.com		# Ads
+ad-colony.com				# Ads
+ad.turn.com				# Ads
+ads-mannenmedia.adhese.com		# Ads
+ads.adaptv.advertising.com		# Ads
+ads.nexage.com				# Ads
+ads.pubmatic.com			# Ads
+adserver.lumido.nl			# Ads
+cm.g.doubleclick.net			# Ads
+footprints-pa.googleapis.com		# test
+peoplestack-pa.googleapis.com		# test
+static-global-s-msn-com.akamaized.net	# msnblock
+msn.com 				# msnblock
+xp.apple.com 				# appeltrack
+
+#random dns requests
+aaycbvpglguvz.home 
+cbmwkybwkcnibt.home 
+cpvnxfpkwcffwz.home  
+dmvweoy.home 
+fqjdrugnlho.home 
+fshctslbt.home 
+gjkxjrueloxqt.home 
+kfmmaulcakwtk.home 
+kqywcypklcv.home 
+krjnnlvwocgl.home 
+maexigh.home 
+nas.home 
+ngdteprjzyqbr.home 
+oltpgytspbrgt.home 
+oxbkror.home 
+plflxoo.home 
+sohrwvat.home 
+tjqyecdexpma.home 
+uknfgvgehyshzt.home 
+zhkehzzpzum.home 
+zleypiqwtyc.home 
+zqetncf.home
